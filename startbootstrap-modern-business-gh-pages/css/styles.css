@@ -11321,3 +11321,14 @@ html {
   background-color: #9ec52e;
 }
 
+.animacion{
+  --animate-duration: 5s;
+}
+
+.animacion2{
+  --animate-duration: 10s;
+}
+
+.animacion3{
+  --animate-duration: 15s;
+}
